@@ -1,4 +1,4 @@
 export const environment = {
     production: false,
-    apiHost: 'https://ci-cd-spring.onrender.com/messages'
+    apiHost: 'https://ci-cd-spring.onrender.com'
   };
